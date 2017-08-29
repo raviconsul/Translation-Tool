@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Translation Tool</string>
+    <string name="detect">Detect Language</string>
+    <string name="translate">Translate Text</string>
+    <string name="proceed">Proceed</string>
+    <string name="TranslatedText">Translated Text</string>
+    <string name="link">Powered by Yandex. Translate</string>
+    <string name="head">Translate It!!</string>
+</resources>
